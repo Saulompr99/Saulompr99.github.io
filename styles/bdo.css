@@ -1,0 +1,26 @@
+.card {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.card:hover {
+    transform: scale(105%);
+}
+
+h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    float: right;
+}
